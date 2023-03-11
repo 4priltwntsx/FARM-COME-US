@@ -264,17 +264,14 @@ C:.
 ### 🎁 메인 페이지
 
 ![메인페이지](./img/메인페이지.png)
-<br>
 
-### 👤 로그인
+### 👤 로그인<br>
 
 <img src="./img/Login.gif" width="380">
-<br>
 
 ### 📱 마이 페이지
 
 ![마이페이지](./img/마이페이지.png)
-<br>
 
 ### 🥗 마이 스토어
 
@@ -283,19 +280,18 @@ C:.
 
 ### 📺 라이브
 
-- 라이브 목록
-  <img src="./img/Live.gif" width="380"><br>
-  <br>
-- 라이브 생성
-  <img src="./img/LiveCreate.gif" width="380"><br>
-  <br>
-- 라이브 참여
+- 라이브 생성<br>
+  <img src="./img/LiveCreate.gif" width="380">
+- 라이브 시작<br>
+  <img src="./img/Live.gif" width="380">
+
+- 라이브 참여<br>
   <img src="./img/DoLive.gif" width="380">
 
 ### 🥕 상품
 
-- 상품 등록
-  <img src="./img/Item.gif" width="380"><br>
-  <br>
-- 상품 구매
+- 상품 등록<br>
+  <img src="./img/Item.gif" width="380">
+
+- 상품 구매<br>
   <img src="./img/BuyItem.gif" width="380">
